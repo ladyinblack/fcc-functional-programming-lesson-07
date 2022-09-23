@@ -21,7 +21,7 @@ const rating = watchList.map(({
 ```
 
 ### Code Explanation
-Using parameter destructuring, the title and rating are extracted and returned in an object.  Parentheses are needed to return an object.
+Using parameter destructuring, the `title` and `rating` are extracted and returned in an object.  Parentheses are needed to return an object.
 
 
 ### Reference Links
